@@ -14,4 +14,11 @@ $repository->save($user);
 
 $users = $repository->getUsers();
 
+echo "------------------------------------------------------\n";
+echo 'Los datos del usuario creado son los siguientes:'."\n";
+echo 'Nombre: '.$user->getName()."\n";
+echo 'Email: '.$user->getEmail()."\n";
+echo "\n\n";
+echo 'Array del listado de usuarios:';
+echo "\n";
 print_r($users);
