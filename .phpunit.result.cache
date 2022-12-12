@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testName":3,"UserTest::testEmail":4,"UserTest::testPassword":4},"times":{"UserTest::testName":0.001,"UserTest::testEmail":0,"UserTest::testPassword":0,"SaveUserTest::testSaveUser":0.023}}
